@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_880dc0ba569ead618fb67ace2de1498cfc4e2094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_109701c69305062be55d60e2ea38475c26b75f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/5832cf2d4c11963fffb9cf96431b44f5d012f92d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4a9ffac257e731628ff71ead5e37a6034da2e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_892be7baa7667846fb70107a145c437fa183000b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c11a424c24898e4d9f759dab60c77d03545f4eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/9cc201c9187beab86b22549f0b589b524ad34045/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3da3e8754f6c1c2b4465ad71fecb37435c5d86c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a1c29d7b17cb07d9c13fa85612ab3ce0285b45cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1296a6683e45077097ad0f08060f254f15363e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/c3292c341864c97d6548270e0ac380a8f54eb430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6d157950f71f568a30b66970b592f7dbd5859db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/1be5dc61e6af574c13b5c4bab67c4e1e6022834b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0d2f82878ebe5d25ca9f0c170705f368df8eb7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/4d829db0c264a7ed9bc719b6cb414cabc0f7030c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3edb536d37383035a6014a02413463e6ba813cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57b5dea7469ed1414e87290b42350f1bdaa50878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bfb903558e26eb883719117467b6533fbab7b9">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13946239ea3f10950bedbeebef489c17242dde58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/58e117f07d88572c498fdadc2db96d392991d11f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb1aa2ad135db4bb569e4ebf4d9251901e371d57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/1694cff078d3791096a231051b9c04a2105d3489/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b3af79e82985c3f730a4fb5a660f1f984360333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/3c2844e8f340137b954ea0d8854e04717cf44e30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87343291d39bddb3ff1aa2b9416bc83c0f4a9e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/d49d153571c96c8986a1ffd612c30114e7eac2eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07295685bb7f49977a5f014b25012dd6b337a407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c125545fb558e313cf3282bb20e17b122d3736c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/b89bc578ea0c1623c9e212384f663efc1a71bac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c541896307fd8ffe953d785802c950362aea094c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/e2c441ddc8368cad2378b16369baea222fe4d266/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b37d8e0f6fc7960d1a58cad0fc117d3cd85c980/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/fdadb440313e3b9265b904f687d7ea04071586bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be71a8d7d4cc28c05aec299d020fae173efd9b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a940ac75dc9060985e2e8beb1fb83c6fec7b1983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6edca8c80f138ce9ea74520d6832679da1f832b2/classes.dex" />
+    </item>
+
+</items>

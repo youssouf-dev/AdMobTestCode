@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

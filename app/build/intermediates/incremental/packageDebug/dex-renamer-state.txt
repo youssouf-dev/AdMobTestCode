@@ -1,0 +1,7 @@
+#Mon Jun 12 09:50:12 GMT 2017
+base.0=/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13946239ea3f10950bedbeebef489c17242dde58
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57b5dea7469ed1414e87290b42350f1bdaa50878/classes.dex
+base.1=/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57b5dea7469ed1414e87290b42350f1bdaa50878
+file.0=/Users/youdasilva/Documents/Work/quickstart-android/admob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_13946239ea3f10950bedbeebef489c17242dde58/classes.dex

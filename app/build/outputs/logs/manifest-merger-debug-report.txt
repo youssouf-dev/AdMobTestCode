@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:12:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/1694cff078d3791096a231051b9c04a2105d3489/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/fdadb440313e3b9265b904f687d7ea04071586bf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-ads:10.2.6] /Users/youdasilva/.android/build-cache/21592e817cf3c247938bc27d3aca40e82fafd66d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /Users/youdasilva/.android/build-cache/3c2844e8f340137b954ea0d8854e04717cf44e30/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /Users/youdasilva/.android/build-cache/e2c441ddc8368cad2378b16369baea222fe4d266/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:10.2.6] /Users/youdasilva/.android/build-cache/536cab1d8e2cbef4b140b9d504f58d4513d61b79/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/youdasilva/.android/build-cache/4d829db0c264a7ed9bc719b6cb414cabc0f7030c/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youdasilva/.android/build-cache/58e117f07d88572c498fdadc2db96d392991d11f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youdasilva/.android/build-cache/5832cf2d4c11963fffb9cf96431b44f5d012f92d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youdasilva/.android/build-cache/1be5dc61e6af574c13b5c4bab67c4e1e6022834b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youdasilva/.android/build-cache/c3292c341864c97d6548270e0ac380a8f54eb430/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youdasilva/.android/build-cache/9cc201c9187beab86b22549f0b589b524ad34045/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youdasilva/.android/build-cache/b89bc578ea0c1623c9e212384f663efc1a71bac4/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.google.samples.quickstart.admobexample.MainActivity
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:29:9-32:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:30:13-65
+activity#com.google.samples.quickstart.admobexample.SecondActivity
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:34:9-41:20
+	android:label
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:36:13-58
+	android:parentActivityName
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:35:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:38:13-40:49
+	android:value
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:40:17-46
+	android:name
+		ADDED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml:39:17-63
+uses-sdk
+INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/1694cff078d3791096a231051b9c04a2105d3489/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/fdadb440313e3b9265b904f687d7ea04071586bf/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-ads:10.2.6] /Users/youdasilva/.android/build-cache/21592e817cf3c247938bc27d3aca40e82fafd66d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] /Users/youdasilva/.android/build-cache/d49d153571c96c8986a1ffd612c30114e7eac2eb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /Users/youdasilva/.android/build-cache/3c2844e8f340137b954ea0d8854e04717cf44e30/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /Users/youdasilva/.android/build-cache/e2c441ddc8368cad2378b16369baea222fe4d266/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] /Users/youdasilva/.android/build-cache/536cab1d8e2cbef4b140b9d504f58d4513d61b79/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/youdasilva/.android/build-cache/4d829db0c264a7ed9bc719b6cb414cabc0f7030c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youdasilva/.android/build-cache/58e117f07d88572c498fdadc2db96d392991d11f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youdasilva/.android/build-cache/5832cf2d4c11963fffb9cf96431b44f5d012f92d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youdasilva/.android/build-cache/1be5dc61e6af574c13b5c4bab67c4e1e6022834b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youdasilva/.android/build-cache/c3292c341864c97d6548270e0ac380a8f54eb430/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youdasilva/.android/build-cache/9cc201c9187beab86b22549f0b589b524ad34045/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youdasilva/.android/build-cache/b89bc578ea0c1623c9e212384f663efc1a71bac4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/1694cff078d3791096a231051b9c04a2105d3489/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youdasilva/.android/build-cache/fdadb440313e3b9265b904f687d7ea04071586bf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youdasilva/.android/build-cache/58e117f07d88572c498fdadc2db96d392991d11f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youdasilva/.android/build-cache/5832cf2d4c11963fffb9cf96431b44f5d012f92d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youdasilva/.android/build-cache/1be5dc61e6af574c13b5c4bab67c4e1e6022834b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youdasilva/.android/build-cache/c3292c341864c97d6548270e0ac380a8f54eb430/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youdasilva/.android/build-cache/9cc201c9187beab86b22549f0b589b524ad34045/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youdasilva/.android/build-cache/b89bc578ea0c1623c9e212384f663efc1a71bac4/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youdasilva/.android/build-cache/c8d839d81f7b5645b7b25de824e19b83849b65fd/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/youdasilva/.android/build-cache/6204a7097e7ad30bfdbfb8d426deefe9155ccac7/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/youdasilva/.android/build-cache/94596a4c832b8c3b3ca37d54b73e810d5185dc88/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] /Users/youdasilva/.android/build-cache/134cf78441dad8c6a280a93ac87897465c3f605f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] /Users/youdasilva/.android/build-cache/720f3665918bc66ab05def089a8f43d8e32cffa4/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] /Users/youdasilva/.android/build-cache/d3ee691e86722f47eda60e5a22325778c0c5cdf8/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] /Users/youdasilva/.android/build-cache/da7981b7880958e93b2a20d029a305285b6c04ba/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/youdasilva/.android/build-cache/b26bc59ec6cd95599b048895065ca5622143505e/output/AndroidManifest.xml:20:20-65

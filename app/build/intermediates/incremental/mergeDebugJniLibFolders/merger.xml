@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/youdasilva/Documents/Work/quickstart-android/admob/app/src/debug/jniLibs"/></dataSet></merger>
